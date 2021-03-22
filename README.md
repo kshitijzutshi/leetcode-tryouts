@@ -2,16 +2,16 @@
 
 ### March tryouts
 
-  - [x] Distribute Candies
+- [x] Distribute Candies
 
-  - [ ] Set Mismatch
+- [x] Set Mismatch
 
-  - [ ] Missing Number
+- [ ] Missing Number
 
-  - [ ] Intersection of Two Linked Lists
+- [ ] Intersection of Two Linked Lists
 
-  - [ ] Average of Levels in Binary Tree
+- [ ] Average of Levels in Binary Tree
 
-  - [ ] Short Encoding of Words
+- [ ] Short Encoding of Words
 
-  - [ ] Design HashMap
+- [ ] Design HashMap
